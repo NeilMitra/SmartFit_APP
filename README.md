@@ -1,6 +1,6 @@
 # SmartFit_APP
 
-***WINNER OF THE BEST USE OF VOICEFLOW IN A VOICE ACTIVATED APP AT UOFTHACKS 2020****
+***WINNER OF THE BEST USE OF VOICEFLOW IN A VOICE ACTIVATED APP AT UOFTHACKS 2020***
 
 Inspiration
 Exercise is extremely important and is most effective and healthy when it is evenly applied to all important muscles in your body. However, as students, many of us don't have enough time to finish a complete workout routine that trains every important muscle, and so we split up our exercise routines over several days. However, it can be a hassle to track which muscles you haven't exercised as often, generating friction between a busy student and quality exercise. SmartFit seeks to solve this issue.
